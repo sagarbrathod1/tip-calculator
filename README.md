@@ -28,9 +28,8 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/97072541/185831045-c6d99631-29ee-45bd-ac29-ef91ca41c7c5.gif)
 
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
+![TipCalc](https://user-images.githubusercontent.com/97072541/185832396-b26aaa61-2ab8-4019-8cf8-bd7c42d6c1f8.gif)
 
 ## Notes
 
