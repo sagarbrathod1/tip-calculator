@@ -31,10 +31,6 @@ Here's a walkthrough of implemented user stories:
 
 ![TipCalc](https://user-images.githubusercontent.com/97072541/185832396-b26aaa61-2ab8-4019-8cf8-bd7c42d6c1f8.gif)
 
-## Notes
-
-Describe any challenges encountered while building the app.
-
 ## License
 
     Copyright [yyyy] [name of copyright owner]
